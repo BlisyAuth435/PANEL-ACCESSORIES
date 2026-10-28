@@ -1,1 +1,1 @@
-brutal_version="2"
+brutal_version="3"
