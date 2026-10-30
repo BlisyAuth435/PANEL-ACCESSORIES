@@ -1,1 +1,1 @@
-bios_version="4"
+bios_version="5"
