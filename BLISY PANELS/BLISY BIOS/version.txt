@@ -1,1 +1,1 @@
-bios_version="7"
+bios_version="8"
